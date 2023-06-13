@@ -1,0 +1,46 @@
+.outer-frame {
+   
+    height: 40em;
+    aspect-ratio: 1 / 1.4;
+    background-color: black;
+    padding: 0%;
+    padding-top: 0.005%;
+    margin: 3% 3% 3% 3%;
+}
+.inner-frame {
+    aspect-ratio: 1 / 1.4;
+    background-color: white;
+    margin: 3% 3% 3% 3%;
+   width: 94%;
+   height: 96%;
+}
+
+div.headerbox{
+    background-color: hotpink;
+    width: 98%;
+    height: 10%;
+    display: inline-block;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+h2.headerbox {
+    align-content: center;
+}
+.cardimage {
+  width: 80%;
+  height: 33%;
+}
+.tagbox {
+   height: 15%;
+}
+.textbox {
+    height: 36%;
+}
+.resbox {
+    display: table;
+    width: 100%;
+}
+.ressingle{
+display: table-cell;
+width: 30%;
+}

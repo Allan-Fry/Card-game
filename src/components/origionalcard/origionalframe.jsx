@@ -1,11 +1,12 @@
-import './origional_frame.css;'
-class cardframe extends React.Component {
+import React, { Component } from 'react';
+import './origionalframe.css';
+class Origionalframe extends React.Component {
     render() {
       return <div className="outer-frame">
         <div className="inner-frame">
             <div className="headerbox">
                 <h2 className="headerbox">
-                    {this.props.cardname}
+                {this.props.cardname} 
                 </h2>
             </div>
             <img className="cardimage"></img>
@@ -22,4 +23,4 @@ class cardframe extends React.Component {
         </div>;
     }
   }
-  
+  export default Origionalframe;
