@@ -1,0 +1,10 @@
+.outer-frame {
+    aspect-ratio: 1 / 2;
+    height: 10%;
+    background-color: black;
+}
+.inner-frame {
+    background-color: white;
+    flex: auto;
+    padding: 1%;
+}
