@@ -1,0 +1,14 @@
+{
+    "deck": {
+        "deckkey":1,
+        "deckname": "fire",
+        "cards": [
+            {
+                "cardname": "Goblin Friend"
+            },
+            {
+                "cardname": "Goblin Fastballer"
+            }
+        ]
+    }
+}

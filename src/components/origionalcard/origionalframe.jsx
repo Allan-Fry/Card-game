@@ -10,8 +10,12 @@ class Origionalframe extends React.Component {
                 </h2>
             </div>
             <img className="cardimage"></img>
-            <div className="tagbox"></div>
-            <div className="textbox"></div>
+            <div className="tagbox">
+                {this.props.cardtag}
+            </div>
+            <div className="textbox">
+                {this.props.cardtext}
+            </div>
             <div className="resbox">
                 <div className="ressingle"></div>
                 <div className="resbreak">|</div>

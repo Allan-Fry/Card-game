@@ -1,0 +1,14 @@
+{
+    "keywordlist": {
+        "keywords": [
+            {
+        "keyword":"Striker",
+        "remindertext":"This card can attack the oppent."
+            },
+            {
+            "keyword":"Blocker",
+            "remindertext":"This card can block oppenties attacks."
+            }
+        ]
+    }
+}
